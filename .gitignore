@@ -1,3 +1,6 @@
+# Folders #
+build
+.cache
 # Compiled source #
 ###################
 *.com
